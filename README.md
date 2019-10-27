@@ -1,4 +1,4 @@
-# A collection of Cyber Incident Response Playbook Battle Cards
+## A collection of Cyber Incident Response Playbook Battle Cards
 
 ![img](images/GSPBC-1000.png)
 
