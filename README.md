@@ -6,7 +6,7 @@
 1. Playbook Battle Cards (PBC) are recipes for preparing and applying countermeasures against cyber threats and attacks
 2. PBC are a prescriptive approach to managing various [TTP](https://attack.mitre.org/tactics/enterprise/) deployed by cyber threat actors
 3. PBC follow a [PICERL](https://www.sans.org/media/score/504-incident-response-cycle.pdf) model
-4. PBC aid the kinetic activities conducted by humans prior to, during, and after a cybersecurity incident response situations
+4. PBC aid the kinetic activities conducted by humans prior to, during, and after cybersecurity incident response
 5. PBC are inspired by https://github.com/certsocietegenerale/IRM/
 
 
