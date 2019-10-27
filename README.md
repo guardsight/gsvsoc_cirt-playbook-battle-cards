@@ -11,9 +11,11 @@
 
 
 ## SEE ALSO
-1. https://github.com/certsocietegenerale/IRM/
-2. https://www.incidentresponse.com/playbooks/
-3. https://www.nist.gov/cyberframework
-4. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-184.pdf
-5. https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
-6. https://www.mitre.org/sites/default/files/publications/pr_14-3929-cyber-exercise-playbook.pdf
+1. https://github.com/guardsight/gsvsoc_cybersecurity-incident-response-plan
+2. https://github.com/certsocietegenerale/IRM/
+3. https://www.incidentresponse.com/playbooks/
+4. https://www.nist.gov/cyberframework
+5. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-184.pdf
+6. https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
+7. https://www.mitre.org/sites/default/files/publications/pr_14-3929-cyber-exercise-playbook.pdf
+
